@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuyossi
-- 👀 I’m interested in ...Visual Basic and C#
-- 🌱 I’m currently learning ...assembler and C#
-- 💞️ I’m looking to collaborate on ...Nothing
+- 👀 I’m interested in ... Visual Basic and C#
+- 🌱 I’m currently learning ... C#
+- 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... fuyossi.programming@gmail.com
 
 <!---
