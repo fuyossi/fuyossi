@@ -1,7 +1,7 @@
 # Hi there 👋
 高1初心者プログラマーです。プログラミング歴5年です。HTML, CSS, JavaScript, PHP, C#, VB.NET, Python, SQL, JSON, C++, Java, TypeScriptができます。
 HTML、CSS、JavaScriptやPHPは小さなWebアプリが作れるくらいできます。
-C#やVB.NETはWindows フォーム アプリケーションを作ったことがあります。
+C#やVB.NETはWindows フォーム アプリケーションやWPFを作ったことがあります。
 PythonはTkinterでGUIアプリを作ったことがあります。
 SQL、JSON、C++、Java、TypeScriptは触ったことはありますがあまりできません。
 
